@@ -10,5 +10,5 @@ business: 'Local Business Name'
 jobtitle: '2020 Health Sciences Track Finalists (Still ongoing)'
 ---
 
-> The McGill Dobson cup is a startup competition that aims to bring McGill entrepreneurs together to compete for over $200,000 in prize money.
+> The McGill Dobson Cup is McGill's flagship startup competition that aims to bring McGill entrepreneurs together to compete for over $200,000 in prize money.
 * One of the eight teams selected from 26 semi-finalist teams
