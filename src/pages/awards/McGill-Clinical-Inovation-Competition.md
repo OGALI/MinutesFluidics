@@ -12,5 +12,5 @@ jobtitle: 'Winners of the 2020 MI4 Innovation Prize'
 
 > This prize is sponsored by the McGill Interdisciplinary Initiative in Infection and Immunity (MI4), aiming to support _innovative solutions that focus on infections and immune threats to human health_.
 
-* Granted a $8000 monetary award
+* Granted a $8,000 monetary award
 * Access to dedicated physical presence at the McGill Simnovation Hub for up to 12 months and access to Faculty and University services for a total additional value worth up to $40,000
