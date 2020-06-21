@@ -10,9 +10,4 @@ linkedinurl: 'https://www.linkedin.com/in/william-pang-lh/'
 weight: 5
 ---
 
-<<<<<<< HEAD
 William is a U4 Bioengineering student in Stream 2: Biomolecular and Cellular Engineering. Will is well versed in bioengineering/biotechnology and is currently as an undergraduate research student in the Stem Cell Bioprocessing Laboratory. At MinutesFluidics, Will is particularly interested in investigating how our product can play a vital role in the context of public health.
-=======
-William is a U4 Bioengineering student in Stream 2: Biomolecular and Cellular Engineering. Will is well versed in bioengineering/biotechnology and has spent two years as an undergraduate research student in the Stem Cell Bioprocessing Laboratory. In addition, Will comes with experience working alongside industrial partners.
-
->>>>>>> 92fb6543eeba6f804b6d2caf3c2ed068c2fa6504
