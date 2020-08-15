@@ -7,19 +7,18 @@ featured: true
 draft: false
 ---
 
-A super fast, integrated and simple diagnostic tool for MRSA screening.
+A rapid, integrated, and simple diagnostic tool for MRSA screening.
 
 ## Description:
-Methicillin-Resistant Staphylococcus Aureus (MRSA) is a highly contagious and asymptomatic bacterial
-infection. It has the potential to transmit rapidly between hospital patients since it spreads by open
-wounds, burns, feeding tubes, or by being in contact with shared surfaces (It forms biofilms on surfaces
-that infected individuals touch). Consequently, hospital administrators and staff would like to identify
-and isolate infected individuals as rapidly and as efficiently as possible before these individuals can
-transmit MRSA to other patients. The current diagnostic technology is the bacteria culture and
-Polymerase Chain Reaction (PCR) which unfortunately take &gt;24 hours and ~8 hours respectively to
-retrieve a result. We believe that diagnoses can be done even more rapidly with microfluidic devices,
-which offer the essential advantage of analyzing smaller volumes at faster rates. This in turn leads to a
-rapid diagnosis (within 10 minutes).
+Methicillin-Resistant Staphylococcus Aureus (MRSA) is a contagious and multi-drug resistant bacterial 
+infection. The superbug is found in hospitals where many people congregate who might have open wounds, 
+burns, feeding tubes, or other open areas which allow MRSA to enter the body. The increased length of 
+stay in the hospital attributable to MRSA bacteremia – that is, when MRSA enters a patient’s bloodstream – 
+is 14 days. Hospitals are well aware of the medical consequences, not to mention the heavy financial costs, 
+if MRSA is not quickly identified and treated. The current diagnostic strategies used in centralized hospital 
+laboratories do not meet this requirement since they take hours to days before a diagnosis is determined. To 
+this end, the McGill Bioengineering students who founded MinutesFluidics aim to develop a microfluidic platform 
+that performs an expeditious, reliable, and automated diagnosis.
 
 ## Projected Outcomes:
 Our product is a microfluidic device which screens admitted hospital patients for MRSA. We call it
