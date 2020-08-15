@@ -9,7 +9,7 @@ draft: false
 
 A super fast, integrated and simple diagnostic tool for MRSA screening.
 
-## Description
+## Description:
 Methicillin-Resistant Staphylococcus Aureus (MRSA) is a highly contagious and asymptomatic bacterial
 infection. It has the potential to transmit rapidly between hospital patients since it spreads by open
 wounds, burns, feeding tubes, or by being in contact with shared surfaces (It forms biofilms on surfaces
@@ -21,7 +21,7 @@ retrieve a result. We believe that diagnoses can be done even more rapidly with 
 which offer the essential advantage of analyzing smaller volumes at faster rates. This in turn leads to a
 rapid diagnosis (within 10 minutes).
 
-## Projected Outcomes
+## Projected Outcomes:
 Our product is a microfluidic device which screens admitted hospital patients for MRSA. We call it
 MinutesToMRSA. Imagine a world where a nurse can perform an automated diagnostic test at the point of
 care (at the patient’s bedside) and retrieve results within minutes. Getting this product from ideation to
