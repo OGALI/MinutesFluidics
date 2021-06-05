@@ -7,7 +7,7 @@ image: '/team/ali.JPG'
 jobtitle: 'Chief Technical Officer'
 email: 'ali.najmaldin@mail.mcgill.ca'
 linkedinurl: 'https://www.linkedin.com/in/alinajmaldin/'
-weight: 3
+weight: 2
 ---
 
-Ali is a U4 Bioengineering student at McGill University in Biomedical, Diagnostics and High Throughput Screening Engineering. He is so passionate about aviation that he decided to go for his commercial pilot license. When he is not flying around Montreal, you will usually find him behind a computer screen coding and solving geeky math problems. The unknown is what gets him up in the morning. Within MinutesFluidics, Ali divides his time between many aspects of the company including surface chemistry research, device design, and maintaining the website.
+Ali is Bioengineer from McGill University specializing in software. He also helped Alexander during his capstone project to develop the CFD simulations and worked in The Biostism lab at Polytechnic Montreal to develop a lab on a chip biosensor for the continuous monitoring of AEDs. Within MinutesFluidics, Ali divides his time between many aspects of the company including device design and simulations.

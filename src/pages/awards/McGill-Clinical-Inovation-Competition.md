@@ -1,5 +1,5 @@
 ---
-path: 'https://www.mcgill.ca/medicine/about/faculty-awards-prizes/clic/2019-2020-winners-finalists?fbclid=IwAR03lH411qhLHxVJfZrZtLm01s-WCPeBlWMIx9C8bMbLg2wO4twBIYBbFKY'
+path: 'https://www.mcgill.ca/medhealthsci/about/faculty-awards-prizes/clic/2019-2020-competition'
 title: 'McGill Clinical Innovation Competition'
 date: 2018-11-28T15:05:36+10:00
 draft: false

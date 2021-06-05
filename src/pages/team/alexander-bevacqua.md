@@ -10,5 +10,6 @@ linkedinurl: 'https://www.linkedin.com/in/alexander-bevacqua/'
 weight: 1
 ---
 
-Alexander is a U4 Bioengineering student at McGill University in Biomolecular and Cellular Engineering. He has spent his past summer in a biological engineering research lab and has firsthand experience with how lengthy and complex existing diagnostic strategies for MRSA are. Alexander is minoring in Finance, and as such, he enjoys studying the financial feasibility of bioengineering innovations. In MinutesFluidics, Alexander concentrates on device design, finances, fluid flow modelling, heat transfer modelling, and external affairs. 
+Alexander has his B.Eng. in Bioengineering from McGill University. During his year-long engineering capstone project, he researched microfluidic device manufacturing strategies and worked on design simulations that would precede prototype development. In MinutesFluidics, Alexander concentrates on device design and external affairs.
+
 
