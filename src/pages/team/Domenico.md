@@ -10,5 +10,5 @@ linkedinurl: 'https://www.linkedin.com/in/domenico-lopez/'
 weight: 50
 ---
 
-Domenico is a newly graduated Bioengineering student from McGill University in the Biomedical, Diagnostics and High Throughput Screening stream and currently pursuing a Master’s degree at Concordia in Computer Science. He has worked in biology and bioengineering labs for three years with imaging technologies such as micro computed tomography and total internal reflection fluorescence (TIRF) microscopy. Additionally, he has a good background in marketing courses, including practical experience, which will aid in the sale of our product.
+Domenico is a newly-graduated Bioengineering student from McGill University with a specialty in diagnostics and high-throughput screening, and is currently pursuing a Master’s degree at Concordia University in Computer Science. He has worked in biology and bioengineering labs for three years. Additionally, he has a good background in marketing courses, including practical experience, which will aid in the sale of our product.
 
